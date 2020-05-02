@@ -27,7 +27,7 @@
 
 # 三、测试信息
 
-&emsp;&emsp;添加打印SQL信息配置，添加配置后可以通过查看控制台是否打印SQL信息判断是否使用缓存或缓存是否过期。
+&emsp;&emsp;添加打印SQL信息配置，添加配置后**可以通过查看控制台是否打印SQL信息判断是否使用缓存或缓存是否过期。**
 
 >logging.level.com.example.cache.dao=debug
 
